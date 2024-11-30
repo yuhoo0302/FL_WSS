@@ -35,6 +35,7 @@ If you use the public datasets, please cite the corresponding references:
 ```
 
 ### BUSI
+```sh
 @article{al2020dataset,
   title={Dataset of breast ultrasound images},
   author={Al-Dhabyani, Walid and Gomaa, Mohammed and Khaled, Hussien and Fahmy, Aly},
