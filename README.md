@@ -1,4 +1,4 @@
-## Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound
+# Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound
 
 The testing software is available at https://drive.google.com/file/d/1Z2AJU-zivzgZCxsZajmPyB0PlLtHWsF6/view?usp=drive_link.
 
