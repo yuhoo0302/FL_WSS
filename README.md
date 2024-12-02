@@ -3,10 +3,10 @@
 Implementation of "Flip Learning" in pytorch.
 
 ## Testing sofeware
-The testing software is available at https://drive.google.com/file/d/1Z2AJU-zivzgZCxsZajmPyB0PlLtHWsF6/view?usp=drive_link.
+The testing software is available at https://drive.google.com/file/d/1SdcZ1mxmOjERGnfKiDG0nv9SuCMlfanx/view?usp=drive_link.
 
 ## Datasets
-The testing results of public breast datasets can be found at https://drive.google.com/file/d/1SdcZ1mxmOjERGnfKiDG0nv9SuCMlfanx/view?usp=drive_link.
+The testing results of public breast datasets can be found at https://drive.google.com/file/d/1Z2AJU-zivzgZCxsZajmPyB0PlLtHWsF6/view?usp=drive_link.
 
 If you use the public datasets, please cite the corresponding references:
 
